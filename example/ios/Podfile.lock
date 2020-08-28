@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_math_view (0.0.1):
+    - Flutter
+    - iosMath
+  - iosMath (0.9.4)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_math_view (from `.symlinks/plugins/flutter_math_view/ios`)
+
+SPEC REPOS:
+  trunk:
+    - iosMath
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_math_view:
+    :path: ".symlinks/plugins/flutter_math_view/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_math_view: 45f9c334e85a0e636e6065b4c4daf5610dba2c28
+  iosMath: f7a6cbadf9d836d2149c2a84c435b1effc244cba
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
